@@ -66,7 +66,7 @@
     {
       "标题": "开车软件",
       "任务": "开启",
-      "链接": "https://wwir.lanzoum.com/b05eumwod",
+      "链接": "https://www.lanzouw.com/i7Tjn1wmx97a",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": [
         {
