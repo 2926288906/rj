@@ -80,7 +80,7 @@
     {
       "标题": "福利软件",
       "任务": "关闭",
-      "链接": "",
+      "链接": "https://lanzoux.com/b0focv4zc",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": []
     },
