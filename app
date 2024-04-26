@@ -86,7 +86,7 @@
     },
     {
       "标题": "动漫黄游",
-      "任务": "关闭",
+      "任务": "开启",
       "链接": "https://wwir.lanzoum.com/b05euo4yh",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": []
