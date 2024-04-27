@@ -65,7 +65,7 @@
   "软件分类": [
     {
       "标题": "开车软件",
-      "任务": "关闭",
+      "任务": "开启",
       "链接": "https://zfm.lanzoum.com/b0536kuid",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": [
