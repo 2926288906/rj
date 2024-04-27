@@ -1,6 +1,6 @@
 {
-  "分享内容": "私密社区软件盒永久免费使用，每日更新【老司机软件】【老司机游戏】\n下载地址①：下载地址②：下载地址③：https://2sm.one\n下载地址④：https://3sm.one\n频道地址⑤：https://t.me/simi0044\n复制链接，去浏览器打开，就可以下载免费使用！",
-  "群KEY": "https://t.me/simi0044",
+  "分享内容": "私密社区软件盒永久免费使用，每日更新【老司机软件】【老司机游戏】\n下载地址①：下载地址②：下载地址③：https://2sm.one\n下载地址④：https://3sm.one\n永久地址⑤：https://zfm.lanzoum.com/b0536kuid\n复制链接，去浏览器打开，就可以下载免费使用！",
+  "群KEY": "",
   "客服QQ": "",
   "客服微信": "暂无",
   "启动页图片": "",
@@ -19,7 +19,7 @@
   "公告按钮三跳转": "",
   "当前版本": "1.0.0",
   "更新标题": "私密社区更新了！\n修复下载BUG",
-  "更新内容": "\n  社区已经更更新，新版本v2.1版本\n\n  点击下方链接直接更新，点击链接\n\n  没反应输入下载网址，推荐使用X\n  \n  浏览器下载\n\n  网址①:1sm.one \n\n  网址②:2sm.one \n\n  网址③:3sm.one\n  \n  网址④:0044.fun\n  \n  电报：@sm119112",
+  "更新内容": "\n  社区已经更更新，新版本v2.1版本\n\n  点击下方链接直接更新，点击链接\n\n  没反应输入下载网址，推荐使用X\n  \n  浏览器下载\n\n  网址①:1sm.one \n\n  网址②:2sm.one \n\n  网址③:3sm.one\n  \n  网址④:0044.fun\n  \n  电报：",
   "强制更新": "开启",
   "更新按钮一": "下载地址①",
   "更新按钮一跳转": "",
@@ -66,13 +66,13 @@
     {
       "标题": "开车软件",
       "任务": "关闭",
-      "链接": "https://lanzoux.com/b0focv4zc",
+      "链接": "https://zfm.lanzoum.com/b0536kuid",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": [
         {
           "name_all": "私密社区官方频道-防止丢失务必添加Tg频道",
           "ico": "",
-          "url": "https://t.me/simi0044",
+          "url": "",
           "time": "点击加入回家的路！"
         }
       ]
@@ -80,21 +80,21 @@
     {
       "标题": "福利软件",
       "任务": "关闭",
-      "链接": "https://lanzoux.com/b0focv4zc",
+      "链接": "https://zfm.lanzoum.com/b00moagttc",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": []
     },
     {
       "标题": "动漫黄游",
       "任务": "开启",
-      "链接": "https://wwir.lanzoum.com/b05euo4yh",
+      "链接": "https://zfm.lanzoum.com/b0536kw2j",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": []
     },
     {
       "标题": "科学上网",
       "任务": "关闭",
-      "链接": "https://wwir.lanzoum.com/b05eumwqf",
+      "链接": "",
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": []
     }
@@ -103,25 +103,25 @@
     {
       "标题": "私密社区官网",
       "图片": "",
-      "链接": "https://0044.fun"
+      "链接": ""
     },
     {
       "标题": "私密社区频道",
-      "图片": "https://tc.simi1.top/tp/jq.png",
-      "链接": "https://t.me/simi0044"
+      "图片": "https://tc.simi1.top/tp/yjdz.png",
+      "链接": ""
     }
   ],
   "首页列表": [
     {
       "标题": "软件问题",
       "图片": "https://tc.simi1.top/tp/rjwt.png",
-      "链接": "https://sm123.top/index.php/3.html",
+      "链接": "",
       "打开方式": "内置"
     },
     {
       "标题": "永久地址",
-      "图片": "",
-      "链接": "https://sm123.top/index.php/start-page.html",
+      "图片": "https://tc.simi1.top/tp/yjdz.png",
+      "链接": "",
       "打开方式": "内置"
     }
   ],
@@ -130,13 +130,13 @@
       "标题": "软件问题(声明)\n使用权益(须看)",
       "内容": "刚刚",
       "图片": "https://tc.simi1.top/tp/rjwt.png",
-      "链接": "https://sm123.top/index.php/3.html"
+      "链接": ""
     },
     {
       "标题": "永久地址(最新)\n点击查看(地址)",
       "内容": "刚刚",
       "图片": "https://tc.simi1.top/tp/yjdz.png",
-      "链接": "https://sm123.top/index.php/start-page.html"
+      "链接": ""
     }
   ],
   "任务标题": "点淘APP\n（如果出现二维码失效情况）\n（清除冷心口袋后台再重进）\n（就可以获取最新二维码了）",
