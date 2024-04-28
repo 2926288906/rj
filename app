@@ -70,8 +70,8 @@
       "软件介绍图": "https://tc.simi1.top/tp/tx.png",
       "置顶": [
         {
-          "name_all": "私密社区官方频道-防止丢失务必添加Tg频道",
-          "ico": "",
+          "name_all": "私密社区官方频道-防止丢失务必添加",
+          "ico": "https://duani.cn/Q3IiR3X",
           "url": "",
           "time": "点击加入回家的路！"
         }
